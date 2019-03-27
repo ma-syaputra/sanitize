@@ -1,0 +1,21 @@
+{
+  "name": "sanitaze",
+  "version": "1.0.0",
+  "description": "sanitize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "putra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-sanitizer": "^1.0.5",
+    "jsdom": "^13.2.0",
+    "nodemon": "^1.18.10",
+    "sanitizer": "^0.1.3",
+    "string-search": "^1.2.0",
+    "striptags": "^3.1.1"
+  }
+}
